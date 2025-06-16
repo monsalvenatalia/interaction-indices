@@ -1,0 +1,7 @@
+ipdb==0.13.13
+matplotlib==3.10.3
+networkx==3.3
+numpy==2.3.0
+pandas==2.3.0
+python_louvain==0.16
+scipy==1.15.3

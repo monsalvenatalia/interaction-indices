@@ -27,10 +27,10 @@ These approaches are grounded in the assumption that structurally proximate node
 
 ## Community Detection
 Real-world networks often exhibit a high degree of organization and heterogeneity. A network is said to have community structure when it contains groups
-of nodes that are densely connected internally and sparsely connected to the rest of the network.
+of nodes that are **densely connected internally** and **sparsely connected to the rest** of the network.
 
-Community detection aims to extract topological information in order to find a partition of the nodes—in our case, a disjoint one. In this project,
-we apply a hierarchical agglomerative clustering algorithm, using complete linkage as the merging criterion. Unlike standard implementations that rely on distance, we define similarity
+Community detection aims to extract topological information in order to find a partition of the nodes—in our case, a *disjoint* one. In this project,
+we apply a hierarchical agglomerative clustering algorithm, using *complete linkage* as the merging criterion. Unlike standard implementations that rely on distance, we define similarity
 between communities using a game-theoretic interaction index.
 
 

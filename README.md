@@ -33,6 +33,11 @@ Community detection aims to extract topological information in order to find a p
 we apply a hierarchical agglomerative clustering algorithm, using *complete linkage* as the merging criterion. Unlike standard implementations that rely on distance, we define similarity
 between communities using a game-theoretic interaction index.
 
+## Documentation
+- [Thesis:](docs/Thesis.pdf)
+- [Presentation Slides:](docs/Presentation.pdf)
+
+
 
 
 

@@ -34,8 +34,8 @@ we apply a hierarchical agglomerative clustering algorithm, using *complete link
 between communities using a game-theoretic interaction index.
 
 ## Documentation
-- [Thesis:](docs/Thesis.pdf)
-- [Presentation Slides:](docs/Presentation.pdf)
+- [Thesis](docs/Thesis.pdf)
+- [Presentation Slides](docs/Presentation.pdf)
 
 
 
